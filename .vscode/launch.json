@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - whileloops",
+            "request": "launch",
+            "mainClass": "whileloops",
+            "projectName": "APCS_3256997e"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - scanner_notes",
             "request": "launch",
             "mainClass": "scanner_notes",
